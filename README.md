@@ -2,8 +2,6 @@
  <img src="https://github.com/user-attachments/assets/7932bf5c-72aa-4a52-9925-c7ae7d7d9b05" alt="Main page" width="300">
  <img width="300" alt="Game screen" src="https://github.com/user-attachments/assets/50832e9d-fdfb-4a4f-8201-ad068fd6caff">
  <img width="300" alt="Final screen" src="https://github.com/user-attachments/assets/39b39fbe-3ec3-4799-800d-2ad2bdb2ca03">
-
-  
 </p>
 
 
