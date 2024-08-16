@@ -1,11 +1,10 @@
+# Save the City
+
 <p align="center">
  <img src="https://github.com/user-attachments/assets/7932bf5c-72aa-4a52-9925-c7ae7d7d9b05" alt="Main page" width="300">
  <img width="300" alt="Game screen" src="https://github.com/user-attachments/assets/50832e9d-fdfb-4a4f-8201-ad068fd6caff">
  <img width="300" alt="Final screen" src="https://github.com/user-attachments/assets/39b39fbe-3ec3-4799-800d-2ad2bdb2ca03">
 </p>
-
-
-# Save the City
 
 The goal of the project was to incorporate newly learned concepts about callbacks, timer events, keyboard buttons, collision detection, inheritance, classes, and class global variables to design my own interactive video game using the Turtle module and various shapes and scenes drawn using L-system strings. To design my own game, I created a class named MyGame, with the player’s pixel movement, enemy number, and collision radius as parameters, in the file named mygame, which processed information to simulate my game. In the constructor of MyGame class, I created various instance variables: a TurtleInterpreter object created from the previous project, Screen object, main player Turtle object, player’s pixel movement, list of enemy Turtle objects, number of enemies in the list, minimum and maximum x positions that game enemies can occupy, the total number of enemies created, collision radius, score counting Turtle object, total score, explosion marking Turtle object, status of the game, and win or lose status of the player. Then, I created various methods to manipulate the instance variables based on different scenarios of the game as well as the user’s keyboard button input and timer events. Using the MyGame class, as well as the turtle, random, and time module and turtle_interpreter, home, doneDraw, and beginDraw files, I designed my own game called “Save the City.” The game allows the user to use up, down, left, and right keys to control a basket to catch a number of deployed bombs, depending on the level of the game, in Chicago. To win the game, the user has to catch at least 50% of the bombs deployed.
 
