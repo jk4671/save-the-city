@@ -13,7 +13,7 @@ The goal of the project was to incorporate newly learned concepts about callback
 
 ## Demo
 
-https://youtu.be/ejwLcEUHmGw?si=H6Gbi-cxx7vuA5Gi
+https://youtu.be/jydmbxwM8mU
 
 ## Design
 
